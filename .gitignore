@@ -1,0 +1,23 @@
+# Archivos y directorios de Python
+__pycache__/
+*.py[cod]
+
+# Entorno virtual
+.venv/
+
+# Archivos específicos del sistema operativo
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+*.swp  # Archivos de swap de Vim
+
+# Archivos de distribución
+*.log
+*.bak
+*.tmp
+
+# Archivos de compilación de Cython
+cython_debug/
