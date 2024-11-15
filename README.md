@@ -62,6 +62,9 @@ Jugador Derecho (Teclado):
 Mueve hacia arriba con las teclas ↑
 Mueve hacia abajo con las teclas ↓
 
+Pausar y despausar (Teclado):
+Pulsar la tecla 'P'
+
 El primer jugador que consiga 10 goles ganará el juego. ¡Mantente concentrado, porque el marcador se actualiza en tiempo real!
 
 ## ✨ Características:
